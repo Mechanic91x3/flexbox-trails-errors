@@ -114,10 +114,10 @@ ul {
 }
 
 .sussy-baka {
-    padding: 40px;
+    padding: 60px;
     display: flex;
     flex-direction: column;
-    justify-content: space-around;
+    justify-content: center;
     margin-bottom: 48px;
     background: #7c7cc5;
     box-shadow: #1c1c46;
