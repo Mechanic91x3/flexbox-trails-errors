@@ -1,6 +1,4 @@
-* {
-    background: #e1e1ef;
-}
+
 
 .header { 
     display: flex;
@@ -8,6 +6,7 @@
     justify-content: space-between;
     align-items: center;
     margin-top: 10px;
+    margin-bottom: 20px;
 }
 
 .links {
@@ -37,7 +36,6 @@
 .head-title {
     font-size: 56px;
     font-weight: 600;
-
 }
 
 button {
@@ -116,10 +114,13 @@ ul {
 }
 
 .sussy-baka {
+    padding: 40px;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
     margin-bottom: 48px;
+    background: #7c7cc5;
+    box-shadow: #1c1c46;
 }
 
 .quotes {
@@ -142,6 +143,6 @@ ul {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: #d3ff00;
+    background: #eebb00;
     margin-bottom: 10px;
 }
